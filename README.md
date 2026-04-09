@@ -10,7 +10,7 @@ Visit the live store here: [Live Preview](https://arinsarker07-oss.github.io/eco
 ---
 
 ## 📸 Preview
-
+<img width="1520" height="688" alt="Gemini_Generated_Image_1ob8i61ob8i61ob8" src="https://github.com/user-attachments/assets/dc87fbb9-a0d4-44c8-a75a-03a9d801b439" />
 ---
 
 ## ✨ Key Features
